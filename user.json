@@ -1,0 +1,46 @@
+{
+    "Userdata": [
+        {
+            "userEmail": "n",
+            "userID": "1",
+            "userName": "chiayuzhang",
+            "userPass": "1",
+            "userType": "Admin"
+        },
+        {
+            "userEmail": "1201100514@student.mmu.edu.my",
+            "userID": "2",
+            "userName": "yapzhitoung",
+            "userPass": "qwertyui",
+            "userType": "Admin"
+        },
+        {
+            "userEmail": "1201100885@student.mmu.edu.my",
+            "userID": "3",
+            "userName": "seeyihoe",
+            "userPass": "qwertyui",
+            "userType": "Admin"
+        },
+        {
+            "userEmail": "1201101756@student.mmu.edu.my",
+            "userID": "4",
+            "userName": "nyewjunyue",
+            "userPass": "qwertyui",
+            "userType": "Admin"
+        },
+        {
+            "userEmail": "n@gmail.com",
+            "userID": "1",
+            "userName": "nyewjunyue",
+            "userPass": "n",
+            "userType": "Buyer"
+        },
+    {
+            "userEmail": "zhitoung99@gmail.com",
+            "userID": "2",
+            "userName": "yapzhitoung",
+            "userPass": "123456",
+            "userType": "Buyer"
+        }
+    ]
+}

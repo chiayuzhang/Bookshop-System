@@ -1,0 +1,51 @@
+{
+    "bookdata": [
+        {
+            "bookID": "1",
+            "bookTitle": "Harry Potter and the Philosophers Stone",
+            "bookAuthor": "J.K. Rowling",
+            "bookPrice": 78.03,
+            "bookCategory": "Fantasy",
+            "bookQuantity": 10,
+            "bookYear": "1 Jun 2017",
+            "bookPage": "368",
+            "bookSell": "0"
+
+        },
+        {
+            "bookID": "2",
+            "bookTitle": " Harry Potter and the Chamber of Secrets",
+            "bookAuthor": "J.K. Rowling",
+            "bookPrice": 71.16,
+            "bookCategory": "Fantasy",
+            "bookQuantity": 10,
+            "bookYear": "15 Aug 2017",
+            "bookPage": "384",
+            "bookSell": "0"
+        },
+        {
+            "bookID": "3",
+            "bookTitle": "Harry Potter and the Half-Blood Prince",
+            "bookAuthor": "J.K. Rowling",
+            "bookPrice": 106.80,
+            "bookCategory": "Fantasy",
+            "bookQuantity": 10,
+            "bookYear": "1 July 2017",
+            "bookPage": "560",
+            "bookSell": "0"
+
+        },
+        {
+            "bookID": "4",
+            "bookTitle": "Harry Potter and the Deathly Hallows",
+            "bookAuthor": "J.K. Rowling",
+            "bookPrice": 136.77,
+            "bookCategory": "Fantasy",
+            "bookQuantity": 10,
+            "bookYear": "13 July 2017",
+            "bookPage": "640",
+            "bookSell": "0"
+
+        }
+    ]
+}
